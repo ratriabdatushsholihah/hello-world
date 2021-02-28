@@ -32,9 +32,15 @@ Right now, I am still in this phase
 - Test Management and Control
 - Defect
 
-You know what? All of them are more into QA Analyst and Manual Testing. It's really great fundamental for SQA. But still, a long journey to be QA Engineer or SDET that I need. So, that's why I want to break my limitation. Do not care about stigma and other's question, after 10 years in IT field, why is so hard to do this? Start from small steps. Only need 1% better improvement each day.
+You know what? All of them are more into QA Analyst and Manual Testing. It's really great fundamental for SQA. But still, a long journey to be QA Engineer or SDET that I need. So, that's why I want to break my limitation. Do not care about stigma and other's question, "After 10 years in IT field, why is so hard to do this?"
 
-To be honest, I want to encourage anyone that maybe have similar condition or feeling to keep going. Thanks to one of my supervisor from III Taiwan that encouraged me even if I  had zero knowledges about Cloud Infrastructure that time, "Keep going and growing. Time will prove".
+
+
+**Start from small steps. Only need 1% better improvement each day.**
+
+
+
+To be honest, I want to encourage anyone that maybe have similar condition or feeling to keep going, especially girl or woman. Thanks to one of my supervisor from III Taiwan that encouraged me even if I  had zero knowledges about Cloud Infrastructure that time, "Keep going and growing. Time will prove".
 
 Thank you for reading, my first Hello World on Github!
 
