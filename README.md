@@ -16,7 +16,7 @@ Last year (2020), I graduated from Master program at Computer Science and Inform
 At first, my job is more into QA Analyst because we didn't have a proper test management at that time. Then, I started to work on manual testing for Android and iOS platform. And the story began ...
 
 ## Moving from manual to automation
-Because I work in small start up and we are still lack of man power, I need to do all the things related Software Testing for my team. Let's saya, QA full stack. After learning how work with QA Analyst and Manual Testing stuff, I still struggle to finish my works. You can understand by trying to use our apps. A thousand of bugs! LOL.
+Because I work in small start up and we are still lack of man power, I need to do all the things related Software Testing for my team. Let's say, QA full stack. After learning how work with QA Analyst and Manual Testing stuff, I still struggle to finish my works. You can understand by trying to use our apps. A thousand of bugs! LOL.
 
 If you asked me, "What is your effort to do your job?" I would say, "A lot!". I started to learn from zero, literally zero. I read so many articles about Software Testing, follow many LinkedIn and YouTube Channel that explain about that. I also joined many webinar class about Software Testing and Product Development every month. Trial and error using different kind of Software Testing tools, such as Selenium, Cucumber, Appium, Robot Framework, Mocha, and TestProject. But still fail. LOL. 
 
